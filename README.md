@@ -9,7 +9,6 @@ I build practical software tools to streamline fieldwork, manage restoration job
 * 🌍  I'm based in Wyoming
 * 🖥️  See my portfolio at [Vicctor Romero](http://vicctor-romero.com)
 * ✉️  You can contact me at [vmrbaez@gmail.com](mailto:vmrbaez@gmail.com)
-* 🧠  I'm learning Astro and Nestjs
 
 ### Skills
 
