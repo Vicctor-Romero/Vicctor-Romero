@@ -4,7 +4,7 @@
 
 I'm a software developer focused on building tools that actually solve real problems. I don't tie myself to one specific technology. I just pick whatever stack makes the most sense for the project's requirements.
 
-Lately, I've been doing a lot of work with NestJS, PostgreSQL, and React Native to build full-stack mobile apps. I also spend a good amount of time integrating APIs (like QuickBooks and CubiCasa). When I need to build fast web interfaces, I usually reach for Astro and Tailwind CSS. At the end of the day, my goal is just to ship reliable software that works when people need it.
+Lately, I've been doing a lot of work with NestJS, PostgreSQL, and React Native to build full-stack mobile apps. 
 
 * Based in Wyoming
 * Portfolio: [victorromero.dev](https://victorromero.dev)
